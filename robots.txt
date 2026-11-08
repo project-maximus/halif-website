@@ -1,0 +1,8 @@
+# Halif Auto Repair and Collision — 105 Ash St, Whitby, ON L1N 4B1 — 905-730-6089
+User-agent: *
+Allow: /
+
+# AI assistants: plain-text facts about this business
+# https://www.halifautorepair.ca/llms.txt
+
+Sitemap: https://www.halifautorepair.ca/sitemap.xml

@@ -1,0 +1,4 @@
+# Source and handover docs — kept in git, not served on the site
+_build/
+README.md
+CLIENT-TODO.md
